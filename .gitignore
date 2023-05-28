@@ -28,9 +28,9 @@ Icon
 
 # Thumbnails
 ._*
-.png
-.jpg
-.jpeg
+*.png
+*.jpg
+*.jpeg
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
